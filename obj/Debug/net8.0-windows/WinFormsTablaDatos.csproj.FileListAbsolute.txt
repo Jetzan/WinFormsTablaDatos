@@ -1,0 +1,16 @@
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\bin\Debug\net8.0-windows\WinFormsTablaDatos.exe
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\bin\Debug\net8.0-windows\WinFormsTablaDatos.deps.json
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\bin\Debug\net8.0-windows\WinFormsTablaDatos.runtimeconfig.json
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\bin\Debug\net8.0-windows\WinFormsTablaDatos.dll
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\bin\Debug\net8.0-windows\WinFormsTablaDatos.pdb
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.Form1.resources
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.csproj.GenerateResource.cache
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.AssemblyInfoInputs.cache
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.AssemblyInfo.cs
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.dll
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\refint\WinFormsTablaDatos.dll
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.pdb
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\WinFormsTablaDatos.genruntimeconfig.cache
+C:\Users\jetza\OneDrive\Documentos\C#POO\WinFormsTablaDatos\WinFormsTablaDatos\obj\Debug\net8.0-windows\ref\WinFormsTablaDatos.dll
